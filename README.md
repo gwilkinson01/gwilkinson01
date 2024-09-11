@@ -1,4 +1,4 @@
-![pexels-markusspiske-2004161](https://github.com/user-attachments/assets/55366376-f3f6-4050-a84c-6908905faba4)
+![pexels-markusspiske-2004161](https://github.com/user-attachments/assets/8d22576d-730f-4d8c-a41c-54f6c2d07429)
 
 - 👋 Hi, I’m Greg
 - 👀 I’m interested in cyber security, data/cloud engineering, electrical engineering, bitcoin
