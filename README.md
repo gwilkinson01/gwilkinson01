@@ -4,7 +4,6 @@
 - 👀 I’m interested in cyber security, data/cloud engineering, electrical engineering, bitcoin
 - 🌱 I’m currently learning malware reverse engineering, c/c++, circuit design, microcontroller programming
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/gwilkinson01/)
-- ⚡ Fun fact: ...
 
 <!---
 gwilkinson01/gwilkinson01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
