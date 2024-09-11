@@ -1,4 +1,4 @@
-![pexels-markusspiske-2004161](https://github.com/user-attachments/assets/b0a82713-faff-40f6-830f-9518b4ee06f6)
+![pexels-markusspiske-2004161](https://github.com/user-attachments/assets/385c396c-5fc3-4036-b2de-10c0dc1de6a7)
 
 - 👋 Hi, I’m @gwilkinson01
 - 👀 I’m interested in ...
