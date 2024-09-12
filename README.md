@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Greg
 - 👀 I’m interested in cybersecurity, threat intelligence, software, data & cloud engineering, open source, electrical engineering, history, geopolitics, anthropology, and Bitcoin.
-- 🌱 I’m currently learning malware reverse engineering, c/c++, circuit design, microcontroller programming
+- 🌱 I’m currently learning malware reverse engineering, c/c++, circuit design, and microcontroller programming.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/gwilkinson01/)
 - ✏️ Checkout my [blog/website](https://gwilkinson01.github.io/)
 
