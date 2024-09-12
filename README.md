@@ -1,7 +1,7 @@
 ![pexels-markusspiske-2004161](https://github.com/user-attachments/assets/8d22576d-730f-4d8c-a41c-54f6c2d07429)
 
 - 👋 Hi, I’m Greg
-- 👀 I’m interested in cybersecurity, threat intelligence, software, data & cloud engineering, open source, electrical engineering, history, geopolotics, anthropology, and Bitcoin.
+- 👀 I’m interested in cybersecurity, threat intelligence, software, data & cloud engineering, open source, electrical engineering, history, geopolitics, anthropology, and Bitcoin.
 - 🌱 I’m currently learning malware reverse engineering, c/c++, circuit design, microcontroller programming
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/gwilkinson01/)
 - ✏️ Checkout my [blog/website](https://gwilkinson01.github.io/)
