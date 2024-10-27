@@ -9,7 +9,7 @@
   - Email: gwilkinson01@pm.me. My PGP key is `7653 4DE8 86DA C40C 2578 FE1B 3718 B78B 1882 B787`. You can cross-reference it with the public key ([gpg_keys.asc](https://keybase.io/gwilkinson/pgp_keys.asc)) on my [Keybase profile](https://keybase.io/gwilkinson).
   - [LinkedIn](https://www.linkedin.com/in/gwilkinson01/)
 
-✒️ I write about my interests on my [blog](https://gwilkinson01.github.io/blog). Drop by if you're intrigued!
+✒️ I write about my interests on my [blog](https://gregwilkinson.xyz/blog). Drop by if you're intrigued!
 
 ⚡️ Enjoying my work? Buy me a coffee… in sats! Just tip me via my Lightning address: magentajail01@walletofsatoshi.com
 
