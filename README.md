@@ -11,7 +11,7 @@
 
 ✒️ I write about my interests on my [blog](https://gregwilkinson.xyz/blog). Drop by if you're intrigued!
 
-⚡️ Enjoying my work? Buy me a coffee… in sats! Just tip me via my Lightning address: magentajail01@walletofsatoshi.com
+⚡️ Enjoying my work? Buy me a coffee… in sats! Just tip me via my Lightning address: gw01@strike.me
 
 <!---
 gwilkinson01/gwilkinson01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
