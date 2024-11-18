@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Greg
 
-👀 I’m interested in threat intelligence, software, data, cloud & security engineering, digital privacy, open source, history, anarchism, anthropology, and Bitcoin.
+👀 I’m interested in threat intelligence, cloud and security engineering, digital privacy, open source, history, anarchism, anthropology, and Bitcoin.
 
 📫 Feel free to connect with me via:
   - Nostr: `npub1gnjvjtptl8gjyan230cffg0kcnrdugq5ycv2und8p0uc69pxpxtslasjxp`
