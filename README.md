@@ -6,7 +6,7 @@
 
 📫 Feel free to connect with me via:
   - Nostr: `npub1gnjvjtptl8gjyan230cffg0kcnrdugq5ycv2und8p0uc69pxpxtslasjxp`
-  - Email: gwilkinson01@pm.me. My PGP key is `7653 4DE8 86DA C40C 2578 FE1B 3718 B78B 1882 B787`. You can cross-reference it with the public key ([gpg_keys.asc](https://keybase.io/gwilkinson/pgp_keys.asc)) on my [Keybase profile](https://keybase.io/gwilkinson).
+  - Email: root@gregwilkinson.xyz. My PGP key is `D04D 85B4 C1CD 3B7F 6CFC  0920 CC70 C29A 38C4 697B`. You can cross-reference it with the public key ([gpg_keys.asc](https://keybase.io/gwilkinson/pgp_keys.asc)) on my [Keybase profile](https://keybase.io/gwilkinson).
   - [LinkedIn](https://www.linkedin.com/in/gwilkinson01/)
 
 ✒️ I write about my interests on my [blog](https://gregwilkinson.xyz/blog). Drop by if you're intrigued!
