@@ -1,5 +1,8 @@
 ![pexels-markusspiske-2004161](https://github.com/user-attachments/assets/8d22576d-730f-4d8c-a41c-54f6c2d07429)
 
+![pexels-merictuna-29907156](https://github.com/user-attachments/assets/61bc02df-a94f-48af-bd05-10ac4056a89c)
+
+
 ### 👋 Hi, I’m Greg
 
 👀 I’m interested in threat intelligence, cloud and security engineering, digital privacy, and Bitcoin.
