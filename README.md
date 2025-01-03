@@ -1,5 +1,3 @@
-![pexels-markusspiske-2004161](https://github.com/user-attachments/assets/8d22576d-730f-4d8c-a41c-54f6c2d07429)
-
 ![pexels-merictuna-29907156 (2)](https://github.com/user-attachments/assets/188cf3a4-c581-4a7d-853e-e5edf3cd5237)
 
 ### 👋 Hi, I’m Greg
