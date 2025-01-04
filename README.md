@@ -1,4 +1,4 @@
-![pexels-merictuna-29907156 (3)](https://github.com/user-attachments/assets/6e42bb49-de06-48f2-884b-f4b23ba13404)
+![pexels-merictuna-29907156](https://github.com/user-attachments/assets/aa19455e-694d-4e74-9fb1-fcba756d6207)
 
 ### 👋 Hi, I’m Greg
 
